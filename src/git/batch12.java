@@ -8,6 +8,7 @@ public class batch12 {
 		System.out.println("we    ere");
 
 		System.out.println("we random random random for real yo");
+		System.out.println("git git git git ");
 	}
 
 }
